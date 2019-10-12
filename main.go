@@ -4,8 +4,8 @@ import (
 	"errors"
 	"log"
 
-	"github.com/aws/aws-lambda-go/events"
-	"github.com/aws/aws-lambda-go/lambda"
+	"https://github.com/ranajai/lambda-go-samples.git/events"
+	"https://github.com/ranajai/lambda-go-samples.git/lambda"
 )
 
 var (
