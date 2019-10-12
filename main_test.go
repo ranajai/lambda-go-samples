@@ -3,9 +3,9 @@ package main_test
 import (
 	"testing"
 
-	"github.com/aws-samples/lambda-go-samples"
+	"https://github.com/ranajai/lambda-go-samples.git"
 
-	"github.com/aws/aws-lambda-go/events"
+	"https://github.com/ranajai/lambda-go-samples.git/events"
 	"github.com/stretchr/testify/assert"
 )
 
